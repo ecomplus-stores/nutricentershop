@@ -1,24 +1,24 @@
 {
-  "store_id": 30702,
-  "name": "nutricentershop",
   "domain": "nutricentershop.netlify.app",
-  "short_name": "nutricentershop",
-  "description": "nutricentershop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ed2e3d",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/nutricentershop",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Nutricenter Distribuidora de Nutricao Esportiva Ltda",
+  "short_name": "Nutricenter",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/nutricentershop"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo.png",
+  "store_id": 30702,
+  "description": "A Nutricentershop, empresa joinvilense, iniciou suas atividades em 1998, quando houve um forte aumento na procura por suplementos alimentares. Empresa pioneira na distribuição e comercialização de vitaminas e suplementos alimentares, procura sempre oferecer os melhores produtos para a saúde e boa forma de seus clientes.\n#ed2e3d",
+  "large_icon": "/img/uploads/logo.png"
 }
