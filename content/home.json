@@ -8,25 +8,39 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "img": "/img/uploads/beta_alanine_100_pure_200g_nutricentershop-banner-compre-agora-1.png",
+          "link": "/beta-alanine-100-pure-200g-150g-50g-gratis",
+          "alt": "",
+          "start": "",
+          "end": "",
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/beef-vanilla-collagen-omega-coq10-glutamina-veggie-whey-protein-900g-essential-nutricentershop-banner-1.jpg",
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/passion.webp"
+          "mobile_img": ""
         }
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/fachada-atualizada.jpg"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-suplementos-alimentares-ganho-de-massa-muscular.jpg"
+        },
+        {
+          "img": "/img/uploads/banner-suplementos-alimentares-emagrecimento-definicao.jpg"
+        },
+        {
+          "img": "/img/uploads/banner-suplementos-alimentares-energia-resistencia.jpg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
