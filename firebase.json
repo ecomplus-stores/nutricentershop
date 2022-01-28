@@ -1,6 +1,72 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/sitemap",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/pages",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/searches",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/grids",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+            {
+        "source": "/sitemaps/categories",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/brands",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/sitemaps/products",
+        "destination": "/sitemap.xml",
+        "type": 301
+      },
+      {
+        "source": "/entrar",
+        "destination": "/app/#/account/",
+        "type": 301
+      },
+      {
+        "source": "/contato",
+        "destination": "/pages/contato",
+        "type": 301
+      },
+      {
+        "source": "/conta",
+        "destination": "/app/#/account/",
+        "type": 301
+      },
+      {
+        "source": "/cadastrar",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/carrinho",
+        "destination": "/app/#/cart",
+        "type": 301
+      },
+      {
+        "source": "/busca*",
+        "destination": "/search",
+        "type": 301
+      }
+      
     ],
     "public": "dist",
     "ignore": [
