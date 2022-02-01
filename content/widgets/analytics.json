@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gaTrackingId": "GTM-T78T3Z"
+    "gaTrackingId": "UA-61690325-1"
   },
   "headAppend": "src/append/head"
 }
