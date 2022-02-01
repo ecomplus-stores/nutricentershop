@@ -1,5 +1,5 @@
 {
-  "domain": "nutricentershop.netlify.app",
+  "domain": "nutricentershop.com.br",
   "currency_symbol": "R$",
   "primary_color": "#ed2e3d",
   "theme": {
@@ -14,7 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
+  "font_family": "_",
   "favicon": "/img/uploads/favicon.png",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/uploads/favicon.png",
