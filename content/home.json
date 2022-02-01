@@ -34,15 +34,15 @@
       "banners": [
         {
           "img": "/img/uploads/banner-suplementos-alimentares-ganho-de-massa-muscular.jpg",
-          "link": "https://nutricentershop.netlify.app/massa-muscular/"
+          "link": "https://www.nutricentershop.com.br/massa-muscular/"
         },
         {
           "img": "/img/uploads/banner-suplementos-alimentares-emagrecimento-definicao.jpg",
-          "link": "https://nutricentershop.netlify.app/emagrecimento/"
+          "link": "https://www.nutricentershop.com.br/emagrecimento/"
         },
         {
           "img": "/img/uploads/banner-suplementos-alimentares-energia-resistencia.jpg",
-          "link": "https://nutricentershop.netlify.app/energia/"
+          "link": "https://www.nutricentershop.com.br/energia/"
         }
       ]
     },
@@ -63,7 +63,7 @@
     },
     {
       "type": "brands-carousel",
-      "limit": 6,
+      "limit": 10,
       "offset": 0
     }
   ]
