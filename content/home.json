@@ -32,8 +32,8 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/fachada-atualizada.jpg"
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "banners-grid",
