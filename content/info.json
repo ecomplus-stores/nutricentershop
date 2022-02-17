@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete Grátis para Joinville nas compras acima de R$ 99,90 e Região Sul e Sudeste nas compras acima de R$149,00."
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele em até 6x sem juros. Pagamento a vista tem 10% de Desconto"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Entrega em até 24 horas para Pedidos de Joinville/SC"
   }
 }
