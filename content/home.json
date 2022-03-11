@@ -8,26 +8,10 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banner-supercoffee-impossible-chocolate-380g-lcarnitina-taurina-cafe-colina-cromo-nutricentershop-joinville.png",
-          "link": "/search?term=SUPERCOFFEE",
-          "alt": "",
-          "start": "",
-          "end": "",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/hiper-mass-100-atlhetica-flavour-morango-chocolate-2-5kg-nutricentershop-joinville-banner.png",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": "",
-          "mobile_img": "",
-          "link": "https://www.nutricentershop.com.br/100-hiper-mass-flavour-2-5hg-atlhetica-nutrition"
-        },
-        {
-          "start": "2022-02-13T14:04:06.654Z",
-          "end": "2022-02-13T14:04:06.684Z",
-          "img": "/img/uploads/banner-creatiana-promocao-frete-gratis-joinville-nutricentershop-online.png",
-          "link": "https://www.nutricentershop.com.br/creatina/"
+          "start": "2022-03-11T13:52:59.101Z",
+          "end": "2022-09-30T13:52:59.129Z",
+          "img": "/img/uploads/banner-produtos-muscle-definition-md-suplementos-joinville-nutricentershop-frete-gratis.png",
+          "link": "https://www.nutricentershop.com.br/search?term=md&bannerhome="
         }
       ]
     },
