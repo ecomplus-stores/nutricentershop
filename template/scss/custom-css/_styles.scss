@@ -30,4 +30,13 @@ border-color: #007f02 !important;
   .top-bar__countdown {
     white-space: normal !important;
   }
+  .info-bar .container {
+  padding: 0;
+}
+.info-bar__nav .col-auto:first-child {
+  padding-right: 0
+}
+.info-bar__nav .col-auto:last-child {
+  padding-left: 0
+}
 }
