@@ -1,6 +1,6 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Frete Grátis para Joinville nas compras acima de R$ 99,90 e Região Sul e Sudeste nas compras acima de R$149,00.",
     "link": "https://www.nutricentershop.com.br/pages/entrega"
   },
