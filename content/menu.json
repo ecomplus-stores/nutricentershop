@@ -1,5 +1,12 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "whey-protein-suplemento-em-po-vitaminas-bcaa-amino-acido",
+    "pre-treino/",
+    "massa-muscular/",
+    "vitaminas-minerais/",
+    "emagrecimento/",
+    "acessorios/"
+  ],
   "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
