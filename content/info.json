@@ -6,7 +6,7 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 6x sem juros. Pagamento a vista tem 10% de Desconto",
+    "text": "Parcele em até 6x sem juros. A vista tem 10% de Desconto",
     "link": "https://www.nutricentershop.com.br/pages/pagamentos"
   },
   "exchange": {
@@ -15,7 +15,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Entrega em até 24 horas para Pedidos de Joinville/SC",
+    "text": "Receba em até 24 horas para Pedidos de Joinville/SC",
     "link": "https://www.nutricentershop.com.br/pages/entrega"
   }
 }
