@@ -1,7 +1,7 @@
 {
   "shipping": {
-    "show": false,
-    "text": "Frete Grátis para Joinville nas compras acima de R$ 99,90 e Região Sul e Sudeste nas compras acima de R$149,00.",
+    "show": true,
+    "text": "Receba em até 24 horas para Pedidos de Joinville/SC",
     "link": "https://www.nutricentershop.com.br/pages/entrega"
   },
   "installments": {
@@ -14,8 +14,8 @@
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
-    "text": "Receba em até 24 horas para Pedidos de Joinville/SC",
-    "link": "https://www.nutricentershop.com.br/pages/entrega"
+    "show": false,
+    "text": "",
+    "link": ""
   }
 }
