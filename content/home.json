@@ -46,8 +46,8 @@
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": null,
-      "sort": "sales",
-      "title": "PRODUTOS MAIS VENDIDOS",
+      "sort": "offers",
+      "title": "PRODUTOS EM PROMOÇÃO",
       "headless": false,
       "limit": 12,
       "page": 1
