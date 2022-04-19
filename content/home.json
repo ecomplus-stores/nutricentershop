@@ -46,7 +46,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": null,
-      "sort": "offers",
+      "sort": "lowest_price",
       "title": "PRODUTOS EM PROMOÇÃO",
       "headless": false,
       "limit": 12,
