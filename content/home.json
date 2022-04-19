@@ -30,15 +30,15 @@
       "banners": [
         {
           "img": "/img/uploads/aqui-temos-creatina-600x900.png",
-          "link": "https://www.nutricentershop.com.br/creatina?bannerhome-1"
+          "link": "https://www.nutricentershop.com.br/creatina"
         },
         {
           "img": "/img/uploads/promocao-pre-treino-suplementos-alimentares-joinville-nutricentershop.png",
-          "link": "https://www.nutricentershop.com.br/pre-treino/?banner-home2"
+          "link": "https://www.nutricentershop.com.br/pre-treino/"
         },
         {
           "img": "/img/uploads/promocao-termogenico-emagrecimento-suplementos-alimentares-joinville-nutricentershop.jpg",
-          "link": "https://www.nutricentershop.com.br/emagrecimento/?banner-home3"
+          "link": "https://www.nutricentershop.com.br/emagrecimento/"
         }
       ]
     },
