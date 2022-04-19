@@ -47,7 +47,7 @@
       "shuffle": false,
       "collection_id": null,
       "sort": "sales",
-      "title": "",
+      "title": "PRODUTOS MAIS VENDIDOS",
       "headless": false,
       "limit": 12,
       "page": 1
