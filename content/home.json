@@ -43,14 +43,15 @@
       ]
     },
     {
-      "type": "collection-shelf",
+      "page": 1,
+      "title": "CREATINA EM PROMOÇÃO",
       "shuffle": false,
-      "collection_id": null,
-      "sort": "lowest_price",
-      "title": "PRODUTOS EM PROMOÇÃO",
       "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.nutricentershop.com.br/creatina/?banner",
       "limit": 12,
-      "page": 1
+      "collection_id": "624c54832e405e04ff237096:categories:CREATINA:/creatina",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
