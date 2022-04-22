@@ -47,5 +47,13 @@ width: 100%
 .info-bar {
   margin-top: 1rem
 }
-
-
+#product-actions .share:not(:first-child) {
+  display: none !important;
+}
+.share-network-whatsapp span {
+  font-size: 0
+}
+.share-network-whatsapp span:after {
+  font-size: 1rem !important;
+  content: 'TIRE SUA DUVIDA NO WHATSAPP'
+}
