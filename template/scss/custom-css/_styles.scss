@@ -60,3 +60,36 @@ width: 100%
 .btn.btn-sm.product__favorite {
   display: none !important
 }
+// organizar menu
+.menu__list {
+  display: flex;
+  flex-direction: column
+}
+#c-62277dee7963422eee35d9c1 {
+  order: 0
+}
+#c-624c54832e405e04ff237096 {
+  order: 1;
+  border-bottom: .5px solid
+}
+#c-624c54792e405e04ff237078 {
+  order: 2
+}
+#c-61e1cc930c7c7272250a7a61 {
+  order: 3
+}
+#c-61e1cc960c7c7272250a7a6a {
+  order: 4
+}
+#c-61e1cc940c7c7272250a7a63 {
+  order: 5
+}
+#c-61e1cc970c7c7272250a7a6e {
+  order: 6
+}
+#c-61e1cc950c7c7272250a7a65 {
+  display: none
+}
+#c-61e1ccc60c7c7272250a7b3d {
+  display: none
+}
