@@ -18,6 +18,16 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62277dee7963422eee35d9c1:categories:WHEY PROTEIN:/whey-protein-suplemento-em-po-vitaminas-bcaa-amino-acido",
+      "sort": "sales",
+      "title": "WHEY PROTEIN EM PROMOÇÃO",
+      "link": "https://www.nutricentershop.com.br/whey-protein-suplemento-em-po-vitaminas-bcaa-amino-acido?banner"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -52,16 +62,6 @@
           "link": "https://www.nutricentershop.com.br/pre-treino/?bannernovo"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62277dee7963422eee35d9c1:categories:WHEY PROTEIN:/whey-protein-suplemento-em-po-vitaminas-bcaa-amino-acido",
-      "sort": "sales",
-      "title": "WHEY PROTEIN EM PROMOÇÃO",
-      "link": "https://www.nutricentershop.com.br/whey-protein-suplemento-em-po-vitaminas-bcaa-amino-acido?banner"
     },
     {
       "type": "page-title",
