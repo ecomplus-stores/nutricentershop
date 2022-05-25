@@ -27,13 +27,13 @@
     },
     {
       "page": 1,
-      "title": "VITAMINAS EM PROMOÇÃO",
+      "title": "LANÇAMENTOS NUTRIGANIC",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
       "link": "https://www.nutricentershop.com.br/creatina/?banner",
       "limit": 12,
-      "collection_id": "61e1cc960c7c7272250a7a6a:categories:VITAMINAS & MINERAIS:/vitaminas-minerais/",
+      "collection_id": "62485e9b2e405e04ff18b981:brands:Nutriganic:/marca/nutriganic",
       "sort": "news"
     },
     {
