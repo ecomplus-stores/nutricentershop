@@ -28,25 +28,6 @@
       "link": "https://www.nutricentershop.com.br/whey-protein-suplemento-em-po-vitaminas-bcaa-amino-acido?banner"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/melhores-proteinas-whey-protein-concentrado-isolado-hidrolisado-nutricenteshop-joinville-suplementos-alimentares-online-2.png",
-          "link": "https://www.nutricentershop.com.br/whey-protein-suplemento-em-po-vitaminas-bcaa-amino-acido?banner-home"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-suplementos-alimentares-ganho-de-massa-muscular-creatina-dux.jpg",
-          "link": "https://www.nutricentershop.com.br/search?term=dux"
-        }
-      ]
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
