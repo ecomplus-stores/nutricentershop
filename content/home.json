@@ -3,6 +3,21 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "page": 1,
+      "title": "LANÇAMENTOS NUTRIGANIC",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.nutricentershop.com.br/creatina/?banner",
+      "limit": 12,
+      "collection_id": "62485e9b2e405e04ff18b981:brands:Nutriganic:/marca/nutriganic",
+      "sort": "news"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -20,21 +35,6 @@
           "link": "https://www.nutricentershop.com.br/search?term=dux"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "page": 1,
-      "title": "LANÇAMENTOS NUTRIGANIC",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://www.nutricentershop.com.br/creatina/?banner",
-      "limit": 12,
-      "collection_id": "62485e9b2e405e04ff18b981:brands:Nutriganic:/marca/nutriganic",
-      "sort": "news"
     },
     {
       "type": "banners-grid",
