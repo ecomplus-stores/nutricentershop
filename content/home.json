@@ -3,6 +3,20 @@
   "meta_description": "Na Loja Online da Nutricentershop você encontra as Melhores Marcas de Suplementos Alimentares, em até 6x S/ Juros e com Frete Grátis* para Todo Brasil. Joinville/SC.",
   "sections": [
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62277dee7963422eee35d9c1:categories:WHEY PROTEIN:/whey-protein-suplemento-em-po-vitaminas-bcaa-amino-acido",
+      "sort": "sales",
+      "title": "WHEY PROTEIN EM PROMOÇÃO",
+      "link": "https://www.nutricentershop.com.br/whey-protein-suplemento-em-po-vitaminas-bcaa-amino-acido?banner"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "page": 1,
       "title": "LANÇAMENTOS NUTRIGANIC",
       "shuffle": false,
@@ -12,20 +26,6 @@
       "limit": 12,
       "collection_id": "62485e9b2e405e04ff18b981:brands:Nutriganic:/marca/nutriganic",
       "sort": "news"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62277dee7963422eee35d9c1:categories:WHEY PROTEIN:/whey-protein-suplemento-em-po-vitaminas-bcaa-amino-acido",
-      "sort": "sales",
-      "title": "WHEY PROTEIN EM PROMOÇÃO",
-      "link": "https://www.nutricentershop.com.br/whey-protein-suplemento-em-po-vitaminas-bcaa-amino-acido?banner"
     },
     {
       "type": "collection-shelf",
