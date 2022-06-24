@@ -93,3 +93,6 @@ width: 100%
 #c-61e1ccc60c7c7272250a7b3d {
   display: none
 }
+#s-acessorios_ {
+  grid-template-columns: repeat(auto-fit,minmax(50%,1fr)) !important;
+}
