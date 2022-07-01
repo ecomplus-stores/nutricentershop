@@ -28,11 +28,11 @@
     },
     {
       "page": 1,
-      "title": "NOVIDADES",
+      "title": "CONFIRA ESSES PRODUTOS",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.nutricentershop.com.br/marca/nutriganic?banner",
+      "link": "",
       "limit": 12,
       "collection_id": null,
       "sort": "news"
