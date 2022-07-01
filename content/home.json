@@ -17,17 +17,6 @@
       "enabled": true
     },
     {
-      "page": 1,
-      "title": "LANÇAMENTOS NUTRIGANIC",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://www.nutricentershop.com.br/marca/nutriganic?banner",
-      "limit": 12,
-      "collection_id": "62485e9b2e405e04ff18b981:brands:Nutriganic:/marca/nutriganic",
-      "sort": "news"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -36,6 +25,17 @@
       "sort": "lowest_price",
       "title": "AS MELHORES CREATINAS",
       "link": "https://www.nutricentershop.com.br/creatina/?banner"
+    },
+    {
+      "page": 1,
+      "title": "LANÇAMENTOS NUTRIGANIC",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.nutricentershop.com.br/marca/nutriganic?banner",
+      "limit": 12,
+      "collection_id": null,
+      "sort": "news"
     },
     {
       "type": "page-title",
