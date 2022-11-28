@@ -34,8 +34,8 @@
       "type": "collection-shelf",
       "link": "",
       "limit": 12,
-      "collection_id": null,
-      "sort": "news"
+      "collection_id": "61e1cc940c7c7272250a7a63:categories:EMAGRECIMENTO:/emagrecimento/",
+      "sort": "lowest_price"
     },
     {
       "type": "page-title",
