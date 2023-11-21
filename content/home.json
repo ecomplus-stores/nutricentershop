@@ -3,6 +3,17 @@
   "meta_description": "Na Loja Online da Nutricentershop você encontra as Melhores Marcas de Suplementos Alimentares, em até 6x S/ Juros e com Frete Grátis* para Todo Brasil. Joinville/SC.",
   "sections": [
     {
+      "page": 1,
+      "title": "CREATINA EM PROMOÇÃO - BLACK FRIDAY NUTRICENTERSHOP",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": 12,
+      "collection_id": "61e1cc9f0c7c7272250a7a8f:categories:Creatina:/creatina/",
+      "sort": "offers"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -25,17 +36,6 @@
       "sort": "news",
       "title": "OS MELHORES PRÉ-TREINOS",
       "link": "https://www.nutricentershop.com.br/pre-treino/?banner"
-    },
-    {
-      "page": 1,
-      "title": "CONFIRA ESSES PRODUTOS",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "",
-      "limit": 12,
-      "collection_id": "61e1cca50c7c7272250a7aa1:categories:Precursores Hormonais:/precursores-hormonais/",
-      "sort": "lowest_price"
     },
     {
       "type": "page-title",
