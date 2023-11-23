@@ -108,8 +108,12 @@ width: 100%
 
 .product-card__prices .prices__installments {
   position: absolute;
-  margin-top: 50px
+  margin-top: 50px;
+  @media(max-width: 767px) {
+    margin-top: 85px;
+  }
 }
+
 .product-card__prices .prices__installments:before {
   content: 'em até'
 }
