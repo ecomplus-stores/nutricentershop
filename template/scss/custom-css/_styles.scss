@@ -96,3 +96,23 @@ width: 100%
 #s-acessorios_ {
   grid-template-columns: repeat(auto-fit,minmax(50%,1fr)) !important;
 }
+
+.prices__discount small {
+  font-size: .58rem !important;
+}
+
+.product-card {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.product-card__prices .prices__installments {
+  position: absolute;
+  margin-top: 50px
+}
+.product-card__prices .prices__installments:before {
+  content: 'em até'
+}
+.product-card__prices .prices__installments span:before {
+  content: 'de'
+}
