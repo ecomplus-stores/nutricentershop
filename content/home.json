@@ -3,6 +3,19 @@
   "meta_description": "Na Loja Online da Nutricentershop você encontra as Melhores Marcas de Suplementos Alimentares, em até 6x S/ Juros e com Frete Grátis* para Todo Brasil. Joinville/SC.",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/100-whey-crush-zero-acucar-lac-free-zero-gluten-under-labs-nutricentershop-joinville-banner.jpg",
+          "link": "https://www.nutricentershop.com.br/100-whey-crush-900g---under-labz-hard-nutrition"
+        }
+      ]
+    },
+    {
       "page": 1,
       "title": "CREATINA EM PROMOÇÃO - NUTRICENTERSHOP",
       "shuffle": false,
