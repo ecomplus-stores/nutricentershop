@@ -5,6 +5,7 @@ border-color: #007f02 !important;
 }
 .prices {
   display: flex;
+  flex-direction: column;
   .prices__value + span {
     order: -1
   }
