@@ -3,6 +3,15 @@
   "meta_description": "Na Loja Online da Nutricentershop você encontra as Melhores Marcas de Suplementos Alimentares, em até 6x S/ Juros e com Frete Grátis* para Todo Brasil. Joinville/SC.",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-bueno.jpg",
+          "link": "https://www.nutricentershop.com.br/whey-100---900g---edicao-especial-max-titanium--dr-peanut"
+        }
+      ]
+    },
+    {
       "page": 1,
       "title": "CREATINA EM PROMOÇÃO - NUTRICENTERSHOP",
       "shuffle": false,
