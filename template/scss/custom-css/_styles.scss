@@ -165,3 +165,7 @@ width: 100%
     }
   }
 }
+
+.prices__discount small:after {
+  content: "/ Pix"
+}
