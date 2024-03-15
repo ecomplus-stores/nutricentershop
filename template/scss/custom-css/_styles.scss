@@ -3,7 +3,7 @@
 background-color: #007f02 !important;
 border-color: #007f02 !important;
 }
-#product-actions, .product-card {
+#product-actions {
   .prices {
     display: flex;
     flex-direction: column;
@@ -24,7 +24,7 @@ border-color: #007f02 !important;
       font-size: var(--font-size-lg);
       font-weight: bold;
       &:before {
-        content: 'OU ';
+        //content: 'OU ';
         color: black;
       }
     }
@@ -32,13 +32,57 @@ border-color: #007f02 !important;
       font-size: var(--font-size-sm);
       font-weight: bold;
       &:before {
-        content: 'POR';
+        //content: 'POR';
         font-weight: bold;
         color: black;
         font-size: .875rem;
       }
       &:after {
-        content: 'no cartão de crédito'
+        //content: 'no cartão de crédito'
+      }
+    }
+  }
+}
+
+.product-card {
+  .prices {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+    .prices__compare {
+      small {
+        text-transform: uppercase;
+        font-weight: bold;
+        color: black;
+        &:last-child {
+          display: none;
+        }
+      }
+    }
+    .prices__value + span {
+      order: -1
+    }
+    .prices__discount span {
+      font-size: 0.9rem;
+      font-weight: bold;
+      &:before {
+        //content: 'OU ';
+        color: black;
+      }
+    }
+    .prices__value {
+      font-size: var(--font-size-sm);
+      font-weight: bold;
+      margin-left: 5px;
+      &:before {
+        content: 'ou';
+        font-weight: bold;
+        color: black;
+        font-size: .875rem;
+      }
+      &:after {
+        //content: 'no cartão de crédito'
       }
     }
   }
@@ -129,31 +173,137 @@ width: 100%
 
 .product-card__prices .prices__installments {
   position: absolute;
-  margin-top: 50px;
+  margin-top: 25px;
   @media(max-width: 767px) {
-    margin-top: 85px;
+    margin-top: 40px;
   }
 }
 
 .product-card__prices .prices__installments:before {
   content: 'em até'
 }
-.product-card__prices .prices__installments span:before {
-  content: 'de'
+.product-card__prices .prices__installments span {
+  &:before {
+    content: 'de'
+  }
+  &:after {
+    content: 'sem juros no cartão';
+    color: black;
+    font-weight: bold;
+  }
 }
+
+.search-engine__item {
+  .product-card__prices .prices__installments {
+    position: absolute;
+    margin-top: 40px;
+    @media(max-width: 767px) {
+      margin-top: 50px;
+    }
+  }
+  .prices {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+    .prices__compare {
+      small {
+        text-transform: uppercase;
+        font-weight: bold;
+        color: black;
+        &:last-child {
+          display: none;
+        }
+      }
+    }
+    .prices__value + span {
+      order: -1
+    }
+    .prices__discount span {
+      font-size: 0.9rem;
+      font-weight: bold;
+      &:before {
+        //content: 'OU ';
+        color: black;
+      }
+    }
+    .prices__value {
+      font-size: var(--font-size-sm);
+      font-weight: bold;
+      margin-left: 5px;
+      &:before {
+        content: 'ou';
+        font-weight: bold;
+        color: black;
+        font-size: .875rem;
+      }
+      &:after {
+        //content: 'no cartão de crédito'
+      }
+    }
+  }
+}
+
+.product-card--small {
+  .product-card__prices .prices__installments {
+    position: absolute;
+    margin-top: 40px;
+    @media(max-width: 767px) {
+      margin-top: 38px;
+    }
+  }
+  .prices {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+    .prices__compare {
+      small {
+        text-transform: uppercase;
+        font-weight: bold;
+        color: black;
+        &:last-child {
+          display: none;
+        }
+      }
+    }
+    .prices__value + span {
+      order: -1
+    }
+    .prices__discount span {
+      font-size: 0.9rem;
+      font-weight: bold;
+      &:before {
+        //content: 'OU ';
+        color: black;
+      }
+    }
+    .prices__value {
+      font-size: var(--font-size-sm);
+      font-weight: bold;
+      margin-left: 5px;
+      &:before {
+        content: 'ou';
+        font-weight: bold;
+        color: black;
+        font-size: .875rem;
+      }
+      &:after {
+        //content: 'no cartão de crédito'
+      }
+    }
+  }
+}
+
 
 .minicart__summary {
   .prices__value {
     &::after {
-      content: 'no cartão de crédito';
-      font-weight: normal !important;
-      font-size: .58rem !important;;
     }
   }
   .prices__discount {
     &::before {
-      content: 'OU';
-      color: black;
+
     }
   }
 }
@@ -161,11 +311,19 @@ width: 100%
 .summary__amount__row {
   .prices__installments {
     &::after {
-      content: 'no cartão de crédito'
     }
   }
 }
 
-.prices__discount small:after {
-  content: "/ Pix"
+.prices__discount {
+  span::after {
+    content: "à vista no Pix";
+    color: #000;
+    font-size: .7rem !important;
+  }
+  small {
+    display: none;
+  }
+
 }
+
