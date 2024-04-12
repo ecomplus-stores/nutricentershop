@@ -3,17 +3,6 @@
   "meta_description": "Na Loja Online da Nutricentershop você encontra as Melhores Marcas de Suplementos Alimentares, em até 6x S/ Juros e com Frete Grátis* para Todo Brasil. Joinville/SC.",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/nutricentershop-joinville-cupom-de-desconto-1200.png",
-          "link": "https://www.nutricentershop.com.br/creatina/",
-          "mobile_img": "/img/uploads/nutricentershop-joinville-cupom-de-desconto-480.png",
-          "alt": "Cupom de Desconto"
-        }
-      ]
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
