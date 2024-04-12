@@ -14,6 +14,20 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/nutricentershop-joinville-cupom-de-desconto-1200.png",
+          "link": "https://www.nutricentershop.com.br/creatina",
+          "mobile_img": "/img/uploads/nutricentershop-joinville-cupom-de-desconto-480.png"
+        }
+      ]
+    },
+    {
       "page": 1,
       "title": "CREATINA EM PROMOÇÃO - NUTRICENTERSHOP",
       "shuffle": false,
