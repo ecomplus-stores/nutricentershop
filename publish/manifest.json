@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.59bcb65b5ba00707248a0747bce278af.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.1cf4c55fbdd87b337e4854132aed2b13.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.de1a5a71591351bb991ff6f86e42a493.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.ce8ac3c77b56bf4a62d8ce0a50cc481e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.d8401119f7dc649b6ed45b2316dae176.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Nutricentershop Suplementos Alimentares Online",
+  "short_name": "Nutricentershop",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Nutricentershop, empresa joinvilense, iniciou suas atividades em 1998, quando houve um forte aumento na procura por suplementos alimentares. Empresa pioneira na distribuição e comercialização de vitaminas e suplementos alimentares, procura sempre oferecer os melhores produtos para a saúde e boa forma de seus clientes.\n#ed2e3d",
+  "background_color": "#ffffff",
+  "theme_color": "#ed2e3d"
+}
